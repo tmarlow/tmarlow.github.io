@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Thomas Marlow's 
 locale: en_US
 description: PhD student in the Department of Sociology at Brown University. 
 logo: site-logo.png
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Thomas Marlow
-  avatar: bio-photo.jpg
+  avatar: bio-photo2.jpg
   email: thomas_marlow@brown.edu  
   disqus-shortname: tmarlow-github-io
   twitter: twmarlow
