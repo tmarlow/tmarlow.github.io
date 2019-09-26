@@ -9,5 +9,4 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Download a pdf version of this cv [HERE].
-
+Download a pdf version of this cv [HERE](./Marlow-CV_Sept_2019.pdf)
