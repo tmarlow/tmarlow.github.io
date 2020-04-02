@@ -5,7 +5,7 @@ excerpt: "Curriculum Vitae"
 modified: 2020-04-01
 image:
   feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
+  credit: Logo by Maria Knowles (@m_jazz_k on Instagram)
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
