@@ -11,7 +11,7 @@ date: 2020-04-02T13:48:12+04:00
 modified: 2020-04-02T13:48:12+04:00
 ---
 
-Recently, I had the good fortune of having research Timmons Roberts and I are working on working on covered in [The Guardian](https://amp.theguardian.com/technology/2020/feb/21/climate-tweets-twitter-bots-analysis?CMP=share_btn_tw&__twitter_impression=true). Oliver Millman wrote the piece and he did a fantastic job. 
+Recently, I had the good fortune of having research Timmons Roberts and I are working on working on covered in [The Guardian](https://amp.theguardian.com/technology/2020/feb/21/climate-tweets-twitter-bots-analysis?CMP=share_btn_tw&__twitter_impression=true). Oliver Millman wrote the piece and did a fantastic job. 
 
 It was really exciting to see our work get such wide coverage! It was picked up by many news organizations including
 
